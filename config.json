@@ -1,0 +1,27 @@
+{
+    "token": "MTQ1NTc4NDUxNTg3NTM3MzA5Nw.GMuDOX.0rTtxltwOtoY5-O6dWevrjLscjVdakJOEj7mAw",
+    "log_channel_id": 1488040792495882341,
+    "max_amount": 1000,
+    "premium_credit_cost": 100,
+    "daily_reward": 50,
+    "referral_reward": 75,
+    "xp_per_gen": 10,
+    "xp_per_vouch": 25,
+    "xp_per_level": 100,
+    "low_stock_threshold": 5,
+    "gen_cooldown": 300,
+    "max_gens_per_day": 10,
+    "abuse_threshold": 15,
+    "alert_channel_id": 0,
+    "announce_channel_id": 0,
+    "level_roles": {
+        "5": 1488082913978220636,
+        "10": 1488083005942792354,
+        "20": 1488083072359600148
+    },
+    "vouch_roles": {
+        "5": 1488082913978220636,
+        "10": 1488083005942792354,
+        "25": 1488083072359600148
+    }
+}
